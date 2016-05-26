@@ -45,7 +45,6 @@ h1 {
 .content-timeline {
   padding: 10px;
   font-size: 1.5em;
-  background:#eee;
 }
 
 
@@ -82,7 +81,7 @@ h1 {
   position: relative;	
   bottom: 0;
   width: 500px;
-  
+  background:#eee;
 }
 
 .timeline ul li div:: before {
